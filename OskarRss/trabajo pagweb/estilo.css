@@ -1,0 +1,124 @@
+
+
+.menu {
+        position: fixed;  /* Mantiene el menú fijo en la parte superior */
+        top: 0;           /* Fijar el menú en la parte superior de la página */
+        left: 0;          /* Fijar el menú al inicio horizontal de la página */
+        width: 100%;      /* El menú ocupará todo el ancho de la página */
+        list-style: none;
+        color: blueviolet;
+        background-color: black; /* Añadir un fondo para que sea legible cuando se superponga */
+        z-index: 100;    /* Asegurar que el menú esté por encima del contenido */
+    }
+    
+    nav ul {
+        list-style: none;
+        overflow: hidden;
+        margin: 0;          /* Ajustes para el diseño */
+        padding: 0;
+    }
+    
+    nav ul li {
+        float: left;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 20px;
+    }
+    
+    nav ul li a {
+        display: block;
+        padding: 20px;
+        color: #fff;
+        text-decoration: none;
+    }
+    
+    nav ul li:hover {
+        background: red;
+    }
+    
+    h1 {
+        font-size: 170px;
+        font-family: chiller;
+        position: relative;  /* Cambiar a relative para evitar que interfiera con el menú */
+        text-align: center;
+        color: crimson;
+    }
+    
+    body {
+        background-image: url("imagenes/istockphoto-484132026-612x612.jpg");
+        background-attachment: fixed;
+        background-size: cover;
+        margin-top: 80px;  /* Añadir un margen para evitar que el contenido quede debajo del menú */
+    }
+    
+    *{
+             font-family:Georgia, 'Times New Roman', Times, serif; size: 30px; 
+             text-align: center; color:darkgray ;
+    }
+    
+    #Terrifier {
+             
+             width: 700px;
+    }
+    #text{
+            background-color: black;
+            text-align: left;
+    }
+    h2{
+            font-size: 115px;
+            text-align: center; color: black;
+    }
+    #text2{
+            background-color: black;
+    
+    }
+    #terri2{
+            font-size: 115px;
+            text-align: center; color: black;
+    }
+    #text3{
+            background-color: black;
+    }
+    #tabla{
+            align-items:center;
+            background-color: black;
+            font-size: 25px; color: crimson;
+            
+    }
+    #Reparto{
+            font-size: 170px;
+            font-family: chiller;
+            position: static;
+            text-align: center; color: crimson;
+    
+    }
+    #Formulario{
+                
+            background-color: black;
+            text-align: center; color: crimson;
+                width: 550px;
+                margin: auto;
+    }
+    #tabla2{
+        
+            align-items:center;
+            background-color: black;
+            font-size: 25px; color: crimson;
+    }
+    #tit_trailer{
+            font-size: 140px;
+            font-family: chiller;
+            position: static;
+            text-align: center; color: crimson;
+    }
+#intro{
+        height: 400px;
+        width: auto;
+}
+#primertrailer{
+        text-align: center; color: black;
+        font-size: 70px;
+}
+#segundotrailer{
+        text-align: center; color: black;
+        font-size: 70px;
+}

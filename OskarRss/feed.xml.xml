@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
+    <channel>
+        <atom:link href="https://exultant-cook.surge.sh/rss/feed.xml" rel="self" type="application/rss+xml"/>
+        <ttl>60</ttl>
+        <language>es</language>
+        <title>Terrifier</title>
+        <link>https://exultant-cook.surge.sh/index.html</link>
+        <description>Esta página Web consiste en la descripcion y valoración de una Saga de peliculas llamada &quot;Terrifier&quot;</description>
+        <pubDate>Thu, 24 Apr 2025 12:46:00 EST</pubDate>
+        <lastBuildDate>Thu, 24 Apr 2025 12:46:00 EST</lastBuildDate>
+        <managingEditor>acf0037@alu.medac.es (Alexis Castellón)</managingEditor>
+
+        <item>
+            <title>Nueva peli Terrifier 3</title>
+            <link>https://exultant-cook.surge.sh/index.html</link>
+            <description>Aquí aparecerá las noticias relevantes de la última película </description>
+            <guid isPermaLink="true">https://exultant-cook.surge.sh/index.html</guid>
+            <pubDate>Thu, 1 May 2025 16:56:03 EST</pubDate>
+        </item>
+    </channel>
+</rss>
